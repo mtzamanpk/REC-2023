@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+.container-fluid {
+    padding-left: 0%;
+    padding-right: 0%;
+    width: 20%;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-family: 'Poppins';
+}
+
+.title{
+    text-align: center;
+    margin-top: 125px;
+    margin-bottom: 40px;
+    font-family: 'Poppins';
+}
+
+.center {
+    background-color: aliceblue;
+    margin: auto;
+    width: 18%;
+
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-family: 'Poppins';
+}
+
+.todoCenter{
+    background-color: aliceblue;
+    margin: auto;
+    width: 30%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-family: 'Poppins';
+}
+
+.bluecolour{
+    color: blue;
+    text-decoration: underline;
+    font-family: 'Poppins';
+}
+
+.btn {
+    padding: .5rem 1rem;
+}
+
+.accordion-button:focus{
+    box-shadow:none;
+}
+
+.card-header{
+    background-color: aliceblue;
+}

@@ -7,6 +7,8 @@ Repository for REC 2023 Programming competition
 
 This Finance Manager lets you carefully and easily sort out money for your Needs, Expenses, and Wants. 
 
+http://www.webdev.cs.uregina.ca/~mtz774/REC%202023/index.php
+
 ## License 
 
 This work is licensed under a

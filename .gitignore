@@ -1,0 +1,19 @@
+# Dependency directories
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables file (if you're using dotenv)
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore npm-debug.log (uncomment if using npm)
+# npm-debug.log
+
+# Optional: IDE or code editor-specific files (e.g., VSCode)
+.vscode/

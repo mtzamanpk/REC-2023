@@ -5,11 +5,15 @@ Repository for REC 2023 Programming competition
 
 **![38c76b03-bc73-4eae-94b6-2276eb75b771](https://github.com/mtzamanpk/REC-2023/assets/98908904/1a3e4e11-8616-4121-8578-a8eba6ce9a69)**
 
+
 This Finance Manager lets you carefully and easily sort out money for your Needs, Expenses, and Wants. 
 
 https://docs.google.com/presentation/d/189c25bzsg2hmytZtoeR7n7EPlYUhBhoRVJ1odMvHLMM/edit?usp=sharing
 
 http://www.webdev.cs.uregina.ca/~mtz774/REC%202023/index.php
+
+![image](https://github.com/mtzamanpk/REC-2023/assets/98908904/cffe56d0-f7b5-407d-b990-4d849ab5667d)
+
 
 ## License 
 
